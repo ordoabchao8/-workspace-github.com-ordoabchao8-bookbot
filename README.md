@@ -1,2 +1,3 @@
-# -workspace-github.com-ordoabchao8-bookbot
-boot.dev bookbot
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
